@@ -1,6 +1,6 @@
 {
   "name": "react-native-datepicker-fg",
-  "version": "1.7.3",
+  "version": "1.7.2",
   "description": "React Native DatePicker component for both Android and iOS, useing DatePickerAndroid, TimePickerAndroid and DatePickerIOS",
   "main": "datepicker.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "moment": "^2.22.0"
   },
   "devDependencies": {
-    "@react-native-community/datetimepicker": "^6.5.2",
+    "@react-native-community/datetimepicker": "^6.5.2"
   },
   "config": {
     "commitizen": {
