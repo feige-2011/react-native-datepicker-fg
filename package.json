@@ -28,7 +28,7 @@
     "moment": "^2.22.0"
   },
   "devDependencies": {
-    "@react-native-community/datetimepicker": "^6.5.2"
+    
   },
   "config": {
     "commitizen": {
